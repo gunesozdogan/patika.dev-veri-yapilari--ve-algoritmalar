@@ -1,1 +1,1 @@
-# patika.dev-veri-yap-lar--ve-algoritmalar
+# patika.dev-veri-yapılar--ve-algoritmalar
