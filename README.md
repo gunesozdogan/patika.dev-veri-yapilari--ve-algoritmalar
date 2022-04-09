@@ -1,3 +1,3 @@
 # patika.dev Veri Yapıları ve Algoritmalar Projeleri
 
-[kendi profilim] https://app.patika.dev/rippz
+[my profile link] https://app.patika.dev/rippz
