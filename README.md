@@ -1,0 +1,1 @@
+# patika.dev-veri-yap-lar--ve-algoritmalar
